@@ -1,7 +1,7 @@
-A backtest done on the performance of moving averages in daily timeframe.
-Done usnig public library yfinance.
-(Intraday is not currently possible as max lookback is 60d - unreliable)
-<i><center>Calculation of formulas below</center></i>
+A backtest done on the performance of moving averages in daily timeframe.</br>
+Done using public library yfinance.</br>
+(Intraday is not currently possible as max lookback is 60d - unreliable)</br>
+<i><center>Calculation of formulas below</center></i></br>
 
 ## RESULTS OF DEATH CROSS 50/200
 SHARPE: 0.43185
